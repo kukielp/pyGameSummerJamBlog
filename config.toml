@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Devs in the Shed PyGame summer jam"
+theme="archie"
